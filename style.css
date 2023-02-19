@@ -20,9 +20,11 @@ h6 {
     
 }
 #bg{
-    
+    background-image: url("https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg");
     min-height:600px;
-    
+    background-attachment: fixed;
+    background-position: center;
+    background-size:cover;
     text-align: center;
 }
 #banner_content {

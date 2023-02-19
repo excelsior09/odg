@@ -51,7 +51,7 @@ session_start();
             </div>
             <div class="col-6 col-md-3 py-3 ">
                 <a href="products.php#shirt">
-                    <img src="images/prasasti_1.jpg" class="img-fluid zoom" alt="" style="border-radius:0.5rem">
+                    <img src="images/prasasti_1.jpg" class="img-fluid" alt="" style="border-radius:0.5rem">
                     <div class="h5 pt-3 font-weight-bolder">
                         Pusara / Pusara
                     </div>
@@ -59,7 +59,7 @@ session_start();
             </div>
             <div class="col-6 col-md-3 py-3">
                 <a href="products.php#shoes">
-                    <img src="images/stiker1.jpg" class="img-fluid   " alt="" style="border-radius:0.5rem">
+                    <img src="images/stiker1.jpg" class="img-fluid" alt="" style="border-radius:0.5rem">
                     <div class="h5 pt-3 font-weight-bolder">
                         Stiker
                     </div>
